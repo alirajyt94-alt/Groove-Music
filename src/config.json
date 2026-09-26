@@ -33,10 +33,10 @@
     }
   ],
   "node_options": {
-    "moveOnDisconnect": true,
-    "resume": true,
+    "moveOnDisconnect": false,
+    "resume": false,
     "resumeTimeout": 60,
-    "resumeByLibrary": true,
+    "resumeByLibrary": false,
     "reconnectTries": 15,
     "reconnectInterval": 10,
     "restTimeout": 60000,
