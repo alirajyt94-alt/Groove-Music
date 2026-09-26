@@ -1,8 +1,8 @@
 {
   "token": "YOUR_BOT_TOKEN",
-  "prefix": ".",
+  "prefix": "/",
   "ownerID": [
-    "YOUR_USER_ID"
+    "1007467674143571988"
   ],
   "SpotifyID": "85aab1d51a174aad9eed6d7989f530e6",
   "SpotifySecret": "b2ad05aa725e434c88776a1be8eab6c",
@@ -12,9 +12,9 @@
   "logs": "",
   "node_source": "spsearch",
   "links": {
-    "support": "https://discord.gg/aerox",
-    "invite": "https://discord.gg/aerox",
-    "guild": "https://discord.gg/aerox"
+    "support": "https://discord.gg/drakleafx-1036197746417340496",
+    "invite": "https://discord.gg/drakleafx-1036197746417340496",
+    "guild": "https://discord.gg/drakleafx-1036197746417340496"
   },
   "Webhooks": {
     "black": "",
